@@ -1,0 +1,16 @@
+[
+    {
+      "id": "1",
+      "question": "A company's SOC has received threat intelligence about an active campaign utilizing a specific vulnerability.  The company would like to determine whether it is vulnerable to this active campaign. \n Which of the following should the company use to make this determination?",
+      "answer": "A System Penetration Test",
+      "category": "CASP"
+    },
+    {
+      "id": "2",
+      "question": "What is 2 + 2?",
+      "answer": "4",
+      "category": "Mathematics"
+    }
+    // Add more flash cards as needed
+  ]
+  
