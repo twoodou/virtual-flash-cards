@@ -7,10 +7,9 @@
     },
     {
       "id": "2",
-      "question": "What is 2 + 2?",
+      "question": "A software house is developing a new application.  The application has the following requirements: <ul><li>Reduce the number of credential requests as much as possible</li><li>Integrate with Social Networks</li><li>Authenticate users</li></ul></br>Which of the following is the BEST Federation Method to use for the application?",
       "answer": "4",
       "category": "Mathematics"
     }
-    // Add more flash cards as needed
   ]
   
